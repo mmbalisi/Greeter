@@ -23,12 +23,25 @@ namespace MarkJustine.Greeter
         public MainWindow()
         {
             InitializeComponent();
+            List<string> colors = new List<string>()
+            {
+                "Blue" ,
+                "White" ,
+                "Grey" ,
+                "Red" ,
+                "Black" ,
+                "Green" ,
+                "Yellow" ,
+                "Pink" 
+            };
+
+            cboColors.ItemsSource = colors;
         }
 
         private void btnClick_Me_Click(object sender, RoutedEventArgs e)
         {
             string fullName = txtFirstName.Text + " " + txtLastName.Text;
-            MessageBox.Show("Hello " + fullName + ", good afternoon!");
+            MessageBox.Show("Hello " + fullName + ", good afternoon! Your favorite color is " + cboColors.SelectedItem);
         }
     }
 }
