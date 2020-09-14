@@ -24,5 +24,11 @@ namespace MarkJustine.Greeter
         {
             InitializeComponent();
         }
+
+        private void btnClick_Me_Click(object sender, RoutedEventArgs e)
+        {
+            string fullName = txtFirstName.Text + " " + txtLastName.Text;
+            MessageBox.Show("Hello " + fullName + ", good afternoon!");
+        }
     }
 }

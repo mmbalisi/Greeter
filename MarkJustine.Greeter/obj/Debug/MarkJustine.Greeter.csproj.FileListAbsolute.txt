@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\bin\Debug\MarkJustine.Greeter.exe.config
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\bin\Debug\MarkJustine.Greeter.exe
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\bin\Debug\MarkJustine.Greeter.pdb
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MarkJustine.Greeter.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\App.g.cs
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MarkJustine.Greeter_MarkupCompile.cache
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MarkJustine.Greeter_MarkupCompile.lref
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MainWindow.baml
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MarkJustine.Greeter.g.resources
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MarkJustine.Greeter.Properties.Resources.resources
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MarkJustine.Greeter.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MarkJustine.Greeter.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MarkJustine.Greeter.exe
+C:\Users\hp\Documents\Major Activity\Projects\MarkJustine.Greeter\obj\Debug\MarkJustine.Greeter.pdb

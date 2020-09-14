@@ -11,6 +11,7 @@
         <Label x:Name="lblLastName" Content="Last Name" HorizontalAlignment="Left" Height="39" Margin="22,105,0,0" VerticalAlignment="Top" Width="135" FontSize="18" FontFamily="Gill Sans Ultra Bold"/>
         <TextBox x:Name="txtFirstName" HorizontalAlignment="Left" Height="39" Margin="171,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="457" FontSize="14"/>
         <TextBox x:Name="txtLastName" HorizontalAlignment="Left" Height="39" Margin="171,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="457" FontSize="14"/>
+        <Button x:Name="btnClick_Me" Content="Click Me" HorizontalAlignment="Left" Height="43" Margin="577,280,0,0" VerticalAlignment="Top" Width="135" FontFamily="Arial Black" Click="btnClick_Me_Click"/>
 
     </Grid>
 </Window>
